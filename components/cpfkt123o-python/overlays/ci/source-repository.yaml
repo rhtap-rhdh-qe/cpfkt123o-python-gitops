@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: cpfkt123o-python-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/cpfkt123o-python
